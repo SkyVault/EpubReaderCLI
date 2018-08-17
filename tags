@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ApplicationState	src/EpubCLI.nim	/^  ApplicationState = enum$/;"	t
+contains	src/EpubCLI.nim	/^proc contains(tab: var seq[(string, string)], file: string): auto=$/;"	f
+parseOpf	src/EpubCLI.nim	/^proc parseOpf(opfPath: string): (seq[(string, string)], Metdata)=$/;"	f
+printTableOfContents	src/EpubCLI.nim	/^proc printTableOfContents(toc: var seq[(string, string)], cursor, offset: (int, int))=$/;"	f
+printTitle	src/EpubCLI.nim	/^proc printTitle(offset: (int, int)): (int, int)=$/;"	f
+render	src/EpubCLI.nim	/^proc render()=$/;"	f
+renderElement	src/html_renderer.nim	/^  proc renderElement(body: XmlNode, theLines: var seq[string])=$/;"	f
+renderHtml	src/html_renderer.nim	/^proc renderHtml* (offset, maxSize: (int, int), html: XmlNode, theLines: var seq[string], scroll = 0)=$/;"	f
+renderPage	src/EpubCLI.nim	/^proc renderPage(offset, maxSize: (int, int))=$/;"	f
+run	src/EpubCLI.nim	/^proc run=$/;"	f
+update	src/EpubCLI.nim	/^proc update(key: char)=$/;"	f

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="2.0">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/ebooks/345</dc:identifier>
+    <dc:creator opf:file-as="Stoker, Bram">Bram Stoker</dc:creator>
+    <dc:title>Dracula</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Horror tales</dc:subject>
+    <dc:subject>Epistolary fiction</dc:subject>
+    <dc:subject>Gothic fiction (Literary genre)</dc:subject>
+    <dc:subject>Vampires -- Fiction</dc:subject>
+    <dc:subject>Dracula, Count (Fictitious character) -- Fiction</dc:subject>
+    <dc:subject>Transylvania (Romania) -- Fiction</dc:subject>
+    <dc:subject>Whitby (England) -- Fiction</dc:subject>
+    <dc:date opf:event="publication">1995-10-01</dc:date>
+    <dc:date opf:event="conversion">2017-10-01T05:42:02.425991+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/345/345-h/345-h.htm</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 300 x 500 size=32974 -->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@images@cover.jpg" id="item1" media-type="image/jpeg"/>
+    <!--Image: 60 x 61 size=1152 -->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@images@colophon.png" id="item2" media-type="image/png"/>
+    <item href="pgepub.css" id="item3" media-type="text/css"/>
+    <item href="0.css" id="item4" media-type="text/css"/>
+    <item href="1.css" id="item5" media-type="text/css"/>
+    <!--Chunk: size=81936 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-0.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82574 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-1.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=77701 Split on h2-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-2.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=74147 Split on h2-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-3.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82165 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-4.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=76149 Split on h2-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-5.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=77648 Split on h2-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-6.htm.html" id="item12" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=86379 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-7.htm.html" id="item13" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82103 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-8.htm.html" id="item14" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=78855 Split on h2-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-9.htm.html" id="item15" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=72847 Split on h2-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-10.htm.html" id="item16" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82062 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-11.htm.html" id="item17" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51280 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-12.htm.html" id="item18" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=22161-->
+    <item href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-13.htm.html" id="item19" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="no"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="@public@vhost@g@gutenberg@html@files@345@345-h@345-h-0.htm.html#pgepubid00001" title="CONTENTS" type="toc"/>
+    <reference href="wrap0000.html" title="Cover" type="cover"/>
+  </guide>
+</package>
