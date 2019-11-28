@@ -3,11 +3,11 @@
 <!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/74"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="http://www.gutenberg.org/ebooks/74" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
     <text>The Adventures of Tom Sawyer</text>
@@ -107,7 +107,7 @@
       <navLabel>
         <text>CHAPTER XI</text>
       </navLabel>
-      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-4.htm.html#pgepubid00015"/>
+      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-3.htm.html#pgepubid00015"/>
     </navPoint>
     <navPoint id="np-17" playOrder="17">
       <navLabel>
@@ -149,7 +149,7 @@
       <navLabel>
         <text>CHAPTER XVIII</text>
       </navLabel>
-      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-6.htm.html#pgepubid00022"/>
+      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-5.htm.html#pgepubid00022"/>
     </navPoint>
     <navPoint id="np-24" playOrder="24">
       <navLabel>
@@ -172,7 +172,7 @@
         <navLabel>
           <text>“A MISSOURI MAIDEN’S FAREWELL TO ALABAMA</text>
         </navLabel>
-        <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-7.htm.html#pgepubid00026"/>
+        <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-6.htm.html#pgepubid00026"/>
       </navPoint>
     </navPoint>
     <navPoint id="np-28" playOrder="28">
@@ -203,7 +203,7 @@
       <navLabel>
         <text>CHAPTER XVI</text>
       </navLabel>
-      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-8.htm.html#pgepubid00031"/>
+      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-7.htm.html#pgepubid00031"/>
     </navPoint>
     <navPoint id="np-33" playOrder="33">
       <navLabel>
@@ -227,7 +227,7 @@
       <navLabel>
         <text>CHAPTER XXX</text>
       </navLabel>
-      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-9.htm.html#pgepubid00035"/>
+      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-8.htm.html#pgepubid00035"/>
     </navPoint>
     <navPoint id="np-37" playOrder="37">
       <navLabel>
@@ -245,7 +245,7 @@
       <navLabel>
         <text>CHAPTER XXXIII</text>
       </navLabel>
-      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-10.htm.html#pgepubid00038"/>
+      <content src="@public@vhost@g@gutenberg@html@files@74@74-h@74-h-9.htm.html#pgepubid00038"/>
     </navPoint>
     <navPoint id="np-40" playOrder="40">
       <navLabel>
